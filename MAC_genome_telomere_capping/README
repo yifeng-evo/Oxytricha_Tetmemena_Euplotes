@@ -1,0 +1,3 @@
+0, using BLAT output *.psl and telomeric reads to determine potential telomere addition sites (>=5 reads pileup).
+1, Determine legal telomere addition site. (Solve some problems like telomere in the middle, or two 5’ telomere addition sites have same number of reads pileup).
+2, output capped sequences
